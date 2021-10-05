@@ -8,3 +8,10 @@ Reviewed the following data types in Swift:
 - Strings
 - Integers
 - Doubles
+
+# Day 2
+Continuation of simple data types in Swift:
+- Booleans
+- Concatenation of strings using the + operator
+- String Interpolation
+- Checkpoint 1: Celsius to Farenheit conversion
