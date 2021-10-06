@@ -15,3 +15,10 @@ Continuation of simple data types in Swift:
 - Concatenation of strings using the + operator
 - String Interpolation
 - Checkpoint 1: Celsius to Farenheit conversion
+
+# Day 3
+Reviewed the following complex data types in Swift:
+- Arrays
+- Dictionaries
+- Sets
+- Enums
