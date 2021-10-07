@@ -22,3 +22,10 @@ Reviewed the following complex data types in Swift:
 - Dictionaries
 - Sets
 - Enums
+
+# Day 4
+Reviewed the following concepts:
+- Type inference
+- Type annotation
+- Summary of all complex data types
+- Checkpoint 2: Create an array and print the number of items in the array and also the number of unique items in the array.
