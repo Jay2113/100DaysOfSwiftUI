@@ -29,3 +29,10 @@ Reviewed the following concepts:
 - Type annotation
 - Summary of all complex data types
 - Checkpoint 2: Create an array and print the number of items in the array and also the number of unique items in the array.
+
+# Day 5
+Reviewed the following conditions and operators in Swift:
+- IF, ELSE IF, and ELSE condtions
+- ==, !=, &&, || operators
+- Ternary operator (WTF -> What, True, False)
+- Switch statement with default and fallthrough
