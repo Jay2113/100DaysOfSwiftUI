@@ -36,3 +36,12 @@ Reviewed the following conditions and operators in Swift:
 - ==, !=, &&, || operators
 - Ternary operator (WTF -> What, True, False)
 - Switch statement with default and fallthrough
+
+# Day 6
+Reviewed the following loops and operators in Swift:
+- for
+- while
+- range operator (..., ..<)
+- continue and break statements
+- Checkpoint 3: FizzBuzz challenge
+- Switch statement with default and fallthrough
