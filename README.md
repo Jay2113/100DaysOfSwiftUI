@@ -44,4 +44,3 @@ Reviewed the following loops and operators in Swift:
 - range operator (..., ..<)
 - continue and break statements
 - Checkpoint 3: FizzBuzz challenge
-- Switch statement with default and fallthrough
