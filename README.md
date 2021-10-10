@@ -44,3 +44,11 @@ Reviewed the following loops and operators in Swift:
 - range operator (..., ..<)
 - continue and break statements
 - Checkpoint 3: FizzBuzz challenge
+
+# Day 7
+Reviewed the following concepts in Swift:
+- functions
+- accepting parameters
+- returning values with return keyword
+- tuples
+- internal and external parameters
