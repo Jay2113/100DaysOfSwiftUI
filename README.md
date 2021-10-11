@@ -52,3 +52,10 @@ Reviewed the following concepts in Swift:
 - returning values with return keyword
 - tuples
 - internal and external parameters
+
+# Day 8
+Continuation of functions in Swift:
+- providing default values for parameters
+- writing throwing functions using throws keyword
+- error handling at function call using do catch loop and try keyword
+- Checkpoint 4: Write a throwing function to find a square root of a number (without using built-in sqrt() function) while implementing error handling using enums, and do catch loop.
